@@ -7,19 +7,19 @@ module.exports = async function ({ getNamedAccounts, deployments }) {
     const { deployer } = await getNamedAccounts()
 
     const basicNFt =
-        'https://gateway.pinata.cloud/ipfs/QmS1XKrEka32JrDN1SRL6gEPFXyrBpjSA8t561q3XRaB7C'
+        ''
     const rareNft =
-        'https://gateway.pinata.cloud/ipfs/QmeV7xW73q9smtAaYqJRc42b9UXomrZCnQC7WGJcveRHyR'
+        ''
     const superRareNft =
-        'https://gateway.pinata.cloud/ipfs/QmemdcLVVUSoXT9RXxNTxyE81rw1d3sDRXxX2u51Fb13QA'
+        ''
 
     const salesSbt =
-        'https://gateway.pinata.cloud/ipfs/QmRKCCgXpoawGWcbymkwhsFPAE1F3BXsHd6Fbb5MB8fsdW'
+        ''
     const rareSbt =
-        'https://gateway.pinata.cloud/ipfs/QmdrEN5FGSYsTsEPphFkrbRsyvYnwwgJ9k6yoVYbA8jZcw'
+        ''
     const superSbt =
-        'https://gateway.pinata.cloud/ipfs/QmPaWWMPW84Ps35pUyhUUyAnbXHwiXkPLd6vaBTFpzV1r7'
-    const VRFCoordinator = '0x7a1bac17ccc5b313516c5e16fb24f7659aa5ebed' //mumbai
+        ''
+    const VRFCoordinator = '' //mumbai
 
     log('=====================================================================')
     const ControlArgs = [deployer, deployer, deployer, deployer]
