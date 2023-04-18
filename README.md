@@ -8,7 +8,8 @@
 This project is an advanced smart contract architecture that incorporates cutting-edge technologies to provide a secure, scalable, and efficient blockchain experience. The architecture includes various features such as ECDSA verification, access control, an NFT Marketplace with soulbound sales achievements, control and registry contracts for easy management and scalability, Chainlink VRF Coordinator V2 for minting NFTs with rarity levels, a holder to separate native currency and ERC20 tokens from main contracts to give additional sucurity level, and soulbounds(1155) as achievements to create a scalable and secure blockchain experience.
 
 </br>
-<h2>Powered with:</h2>
+
+## Powered with:
 
 * <img align="left" src="https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=Ethereum&logoColor=white" />
 </span>
@@ -46,7 +47,7 @@ This project is an advanced smart contract architecture that incorporates cuttin
  * <img align="left" src="https://img.shields.io/badge/ERC20-ff8080?style=for-the-badge" />
  </span>
 
-
+</br>
 
 ## Contracts
 
