@@ -48,4 +48,16 @@ This project is an advanced smart contract architecture that incorporates cuttin
 
 
 
+## Contracts
+
+| Name               | Address                                                                                                                               |
+| :----------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
+| Registry           | [0x0cdC919cE4e4342Fdf5BEAA122a88982Fe8c921d](https://mumbai.polygonscan.com/address/0x0cdC919cE4e4342Fdf5BEAA122a88982Fe8c921d#code) |
+| Control            | [0x10278dBF4D44DCebB89692ADA57CD3cc21f59c5E](https://mumbai.polygonscan.com/address/0x10278dBF4D44DCebB89692ADA57CD3cc21f59c5E#code) |
+| Soulbounds         | [0x8cAE5aEd42E6aa30c78d62c7fE7f172238DF9adC](https://mumbai.polygonscan.com/address/0x8cAE5aEd42E6aa30c78d62c7fE7f172238DF9adC#code) |
+| Minter             | [0xD7A40902813BCd19122e0A09789bF17dC7ed44B1](https://mumbai.polygonscan.com/address/0xD7A40902813BCd19122e0A09789bF17dC7ed44B1#code) |
+| Random             | [0x373f386d5E1AAC49FaA26eb416B2f6c2Eb9b352E](https://mumbai.polygonscan.com/address/0x373f386d5E1AAC49FaA26eb416B2f6c2Eb9b352E#code) |
+| Marketplace        | [0xe67672a5FA6a4B0E460D0786021A19A9673D9Bbc](https://mumbai.polygonscan.com/address/0xe67672a5FA6a4B0E460D0786021A19A9673D9Bbc#code) |
+| Holder             | [0x45A06AEE2bed9f0759EE8A1eC757aD827C92da2f](https://mumbai.polygonscan.com/address/0x45A06AEE2bed9f0759EE8A1eC757aD827C92da2f#code) |
+
 
